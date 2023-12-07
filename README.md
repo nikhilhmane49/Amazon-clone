@@ -10,5 +10,6 @@ Amazon clone page
 - `images`
 
 
-  🚀Thank you for visiting! Feel free to explore the codebase and experience . Happy coding! 🚀
+
+🚀Thank you for visiting! Feel free to explore the codebase and experience . Happy coding! 🚀
 
