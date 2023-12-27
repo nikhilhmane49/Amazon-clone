@@ -11,6 +11,8 @@ Amazon clone page
 
 **screenshot of project**
 
+![Screenshot 2023-12-27 152951](https://github.com/nikhilhmane49/Amazon-clone/assets/137916068/0d071ee8-df87-4526-8c11-4d6cf083b68a)
+
 ![Screenshot 2023-12-27 153027](https://github.com/nikhilhmane49/Amazon-clone/assets/137916068/3a69c3dd-b92e-4252-9e05-2c7fa54f0527)
 
 
